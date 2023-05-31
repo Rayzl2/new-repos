@@ -1,0 +1,22 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="200" d:DesignHeight="300"
+             x:Class="AvaloniaUI.Views.CustomUserWindowProfile"
+			 >
+
+
+	<!-- Создадим разметку экрана-->
+	<Grid RowDefinitions="*" ColumnDefinitions="Auto">
+
+		<ItemsControl Items="{Binding List.Items}">
+			<ItemsControl.ItemTemplate>
+				<DataTemplate>
+					<Button Margin="4" 
+							  Background="{Binding hexcolor}"/>
+				</DataTemplate>
+			</ItemsControl.ItemTemplate>
+		</ItemsControl>
+	</Grid>
+</UserControl>
