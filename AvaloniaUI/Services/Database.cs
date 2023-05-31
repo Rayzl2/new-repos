@@ -14,7 +14,13 @@ namespace AvaloniaUI.Services
         {
             new ColorProfile { hexcolor = new GetColor().yourHex()},
             new ColorProfile { hexcolor = new GetColor().yourHex()},
-            new ColorProfile { hexcolor = new GetColor().yourHex()}
+            new ColorProfile { hexcolor = new GetColor().yourHex()},
+            new ColorProfile { hexcolor = new GetColor().yourHex()},
+            new ColorProfile { hexcolor = new GetColor().yourHex()},
+            new ColorProfile { hexcolor = new GetColor().yourHex()},
+            new ColorProfile { hexcolor = new GetColor().yourHex()},
+            new ColorProfile { hexcolor = new GetColor().yourHex()},
+            new ColorProfile { hexcolor = new GetColor().yourHex()},
 
         };
     }
