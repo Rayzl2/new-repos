@@ -1,48 +1,62 @@
-C:\Users\vadim\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.Animation.dll
-C:\Users\vadim\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.Base.dll
-C:\Users\vadim\.nuget\packages\avalonia.controls.datagrid\0.10.21\lib\netstandard2.0\Avalonia.Controls.DataGrid.dll
-C:\Users\vadim\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.Controls.dll
-C:\Users\vadim\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.DesignerSupport.dll
-C:\Users\vadim\.nuget\packages\avalonia.desktop\0.10.21\lib\netstandard2.0\Avalonia.Desktop.dll
-C:\Users\vadim\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.DesktopRuntime.dll
-C:\Users\vadim\.nuget\packages\avalonia.diagnostics\0.10.21\lib\netstandard2.0\Avalonia.Diagnostics.dll
-C:\Users\vadim\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.Dialogs.dll
-C:\Users\vadim\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.dll
-C:\Users\vadim\.nuget\packages\avalonia.freedesktop\0.10.21\lib\netstandard2.0\Avalonia.FreeDesktop.dll
-C:\Users\vadim\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.Input.dll
-C:\Users\vadim\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.Interactivity.dll
-C:\Users\vadim\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.Layout.dll
-C:\Users\vadim\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.Markup.dll
-C:\Users\vadim\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.Markup.Xaml.dll
-C:\Users\vadim\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.MicroCom.dll
-C:\Users\vadim\.nuget\packages\avalonia.native\0.10.21\lib\netstandard2.0\Avalonia.Native.dll
-C:\Users\vadim\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.OpenGL.dll
-C:\Users\vadim\.nuget\packages\avalonia.reactiveui\0.10.21\lib\netstandard2.0\Avalonia.ReactiveUI.dll
-C:\Users\vadim\.nuget\packages\avalonia.remote.protocol\0.10.21\lib\netstandard2.0\Avalonia.Remote.Protocol.dll
-C:\Users\vadim\.nuget\packages\avalonia.skia\0.10.21\lib\netstandard2.0\Avalonia.Skia.dll
-C:\Users\vadim\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.Styling.dll
-C:\Users\vadim\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.Themes.Default.dll
-C:\Users\vadim\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.Themes.Fluent.dll
-C:\Users\vadim\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.Visuals.dll
-C:\Users\vadim\.nuget\packages\avalonia.win32\0.10.21\lib\netstandard2.0\Avalonia.Win32.dll
-C:\Users\vadim\.nuget\packages\avalonia.x11\0.10.21\lib\netstandard2.0\Avalonia.X11.dll
-C:\Users\vadim\.nuget\packages\dynamicdata\7.1.1\lib\net5.0\DynamicData.dll
-C:\Users\vadim\.nuget\packages\harfbuzzsharp\2.8.2.1-preview.108\lib\net6.0\HarfBuzzSharp.dll
-C:\Users\vadim\.nuget\packages\jetbrains.annotations\10.3.0\lib\netstandard1.0\JetBrains.Annotations.dll
-C:\Users\vadim\.nuget\packages\microsoft.codeanalysis.csharp\3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\vadim\.nuget\packages\microsoft.codeanalysis.csharp.scripting\3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\vadim\.nuget\packages\microsoft.codeanalysis.common\3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.dll
-C:\Users\vadim\.nuget\packages\microsoft.codeanalysis.scripting.common\3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\astaninva\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.Animation.dll
+C:\Users\astaninva\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.Base.dll
+C:\Users\astaninva\.nuget\packages\avalonia.controls.datagrid\0.10.21\lib\netstandard2.0\Avalonia.Controls.DataGrid.dll
+C:\Users\astaninva\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.Controls.dll
+C:\Users\astaninva\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.DesignerSupport.dll
+C:\Users\astaninva\.nuget\packages\avalonia.desktop\0.10.21\lib\netstandard2.0\Avalonia.Desktop.dll
+C:\Users\astaninva\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.DesktopRuntime.dll
+C:\Users\astaninva\.nuget\packages\avalonia.diagnostics\0.10.21\lib\netstandard2.0\Avalonia.Diagnostics.dll
+C:\Users\astaninva\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.Dialogs.dll
+C:\Users\astaninva\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.dll
+C:\Users\astaninva\.nuget\packages\avalonia.freedesktop\0.10.21\lib\netstandard2.0\Avalonia.FreeDesktop.dll
+C:\Users\astaninva\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.Input.dll
+C:\Users\astaninva\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.Interactivity.dll
+C:\Users\astaninva\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.Layout.dll
+C:\Users\astaninva\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.Markup.dll
+C:\Users\astaninva\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.Markup.Xaml.dll
+C:\Users\astaninva\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.MicroCom.dll
+C:\Users\astaninva\.nuget\packages\avalonia.native\0.10.21\lib\netstandard2.0\Avalonia.Native.dll
+C:\Users\astaninva\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.OpenGL.dll
+C:\Users\astaninva\.nuget\packages\avalonia.reactiveui\0.10.21\lib\netstandard2.0\Avalonia.ReactiveUI.dll
+C:\Users\astaninva\.nuget\packages\avalonia.remote.protocol\0.10.21\lib\netstandard2.0\Avalonia.Remote.Protocol.dll
+C:\Users\astaninva\.nuget\packages\avalonia.skia\0.10.21\lib\netstandard2.0\Avalonia.Skia.dll
+C:\Users\astaninva\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.Styling.dll
+C:\Users\astaninva\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.Themes.Default.dll
+C:\Users\astaninva\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.Themes.Fluent.dll
+C:\Users\astaninva\.nuget\packages\avalonia\0.10.21\lib\netcoreapp2.0\Avalonia.Visuals.dll
+C:\Users\astaninva\.nuget\packages\avalonia.win32\0.10.21\lib\netstandard2.0\Avalonia.Win32.dll
+C:\Users\astaninva\.nuget\packages\avalonia.x11\0.10.21\lib\netstandard2.0\Avalonia.X11.dll
+C:\Users\astaninva\.nuget\packages\azure.core\1.25.0\lib\net5.0\Azure.Core.dll
+C:\Users\astaninva\.nuget\packages\azure.identity\1.7.0\lib\netstandard2.0\Azure.Identity.dll
+C:\Users\astaninva\.nuget\packages\dynamicdata\7.1.1\lib\net5.0\DynamicData.dll
+C:\Users\astaninva\.nuget\packages\harfbuzzsharp\2.8.2.1-preview.108\lib\net6.0\HarfBuzzSharp.dll
+C:\Users\astaninva\.nuget\packages\jetbrains.annotations\10.3.0\lib\netstandard1.0\JetBrains.Annotations.dll
+C:\Users\astaninva\.nuget\packages\microsoft.bcl.asyncinterfaces\1.1.1\ref\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\astaninva\.nuget\packages\microsoft.codeanalysis.csharp\3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\astaninva\.nuget\packages\microsoft.codeanalysis.csharp.scripting\3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\astaninva\.nuget\packages\microsoft.codeanalysis.common\3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.dll
+C:\Users\astaninva\.nuget\packages\microsoft.codeanalysis.scripting.common\3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.Scripting.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\Microsoft.CSharp.dll
+C:\Users\astaninva\.nuget\packages\microsoft.data.sqlclient\5.1.1\ref\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\astaninva\.nuget\packages\microsoft.identity.client\4.47.2\lib\netcoreapp2.1\Microsoft.Identity.Client.dll
+C:\Users\astaninva\.nuget\packages\microsoft.identity.client.extensions.msal\2.19.3\lib\netcoreapp2.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\astaninva\.nuget\packages\microsoft.identitymodel.abstractions\6.24.0\lib\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\astaninva\.nuget\packages\microsoft.identitymodel.jsonwebtokens\6.24.0\lib\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\astaninva\.nuget\packages\microsoft.identitymodel.logging\6.24.0\lib\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\astaninva\.nuget\packages\microsoft.identitymodel.protocols\6.24.0\lib\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\astaninva\.nuget\packages\microsoft.identitymodel.protocols.openidconnect\6.24.0\lib\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\astaninva\.nuget\packages\microsoft.identitymodel.tokens\6.24.0\lib\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\astaninva\.nuget\packages\microsoft.sqlserver.server\1.0.0\lib\netstandard2.0\Microsoft.SqlServer.Server.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\Microsoft.VisualBasic.Core.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\Microsoft.VisualBasic.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\Microsoft.Win32.Primitives.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\Microsoft.Win32.Registry.dll
+C:\Users\astaninva\.nuget\packages\microsoft.win32.systemevents\6.0.0\lib\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\mscorlib.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\netstandard.dll
-C:\Users\vadim\.nuget\packages\reactiveui\13.2.10\lib\net5.0\ReactiveUI.dll
-C:\Users\vadim\.nuget\packages\skiasharp\2.88.1-preview.108\lib\net6.0\SkiaSharp.dll
-C:\Users\vadim\.nuget\packages\splat\10.0.1\lib\net5.0\Splat.dll
+C:\Users\astaninva\.nuget\packages\reactiveui\13.2.10\lib\net5.0\ReactiveUI.dll
+C:\Users\astaninva\.nuget\packages\skiasharp\2.88.1-preview.108\lib\net6.0\SkiaSharp.dll
+C:\Users\astaninva\.nuget\packages\splat\10.0.1\lib\net5.0\Splat.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.AppContext.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.Buffers.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.Collections.Concurrent.dll
@@ -73,7 +87,7 @@ C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.Diagnostics.TraceSource.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.Diagnostics.Tracing.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.dll
-C:\Users\vadim\.nuget\packages\system.drawing.common\4.5.0\ref\netstandard2.0\System.Drawing.Common.dll
+C:\Users\astaninva\.nuget\packages\system.drawing.common\6.0.0\lib\net6.0\System.Drawing.Common.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.Drawing.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.Drawing.Primitives.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.Dynamic.Runtime.dll
@@ -82,6 +96,7 @@ C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.Globalization.Calendars.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.Globalization.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.Globalization.Extensions.dll
+C:\Users\astaninva\.nuget\packages\system.identitymodel.tokens.jwt\6.24.0\lib\net6.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.IO.Compression.Brotli.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.IO.Compression.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.IO.Compression.FileSystem.dll
@@ -101,6 +116,7 @@ C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.Linq.Expressions.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.Linq.Parallel.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.Linq.Queryable.dll
+C:\Users\astaninva\.nuget\packages\system.memory.data\1.0.2\lib\netstandard2.0\System.Memory.Data.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.Memory.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.Net.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.Net.Http.dll
@@ -124,7 +140,7 @@ C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.Numerics.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.Numerics.Vectors.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.ObjectModel.dll
-C:\Users\vadim\.nuget\packages\system.reactive\5.0.0\lib\net5.0\System.Reactive.dll
+C:\Users\astaninva\.nuget\packages\system.reactive\5.0.0\lib\net5.0\System.Reactive.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.Reflection.DispatchProxy.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.Reflection.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.Reflection.Emit.dll
@@ -162,6 +178,7 @@ C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.Security.Cryptography.Encoding.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.Security.Cryptography.OpenSsl.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.Security.Cryptography.Primitives.dll
+C:\Users\astaninva\.nuget\packages\system.security.cryptography.protecteddata\6.0.0\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.Security.Cryptography.X509Certificates.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.Security.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.Security.Principal.dll
@@ -200,5 +217,5 @@ C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.Xml.XmlSerializer.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.Xml.XPath.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\System.Xml.XPath.XDocument.dll
-C:\Users\vadim\.nuget\packages\tmds.dbus\0.9.0\lib\netstandard2.0\Tmds.DBus.dll
+C:\Users\astaninva\.nuget\packages\tmds.dbus\0.9.0\lib\netstandard2.0\Tmds.DBus.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\WindowsBase.dll

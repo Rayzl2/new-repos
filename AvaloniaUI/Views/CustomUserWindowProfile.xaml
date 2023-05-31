@@ -8,15 +8,46 @@
 
 
 	<!-- Создадим разметку экрана-->
-	<Grid RowDefinitions="*" ColumnDefinitions="Auto">
-
-		<ItemsControl Items="{Binding List.Items}">
-			<ItemsControl.ItemTemplate>
-				<DataTemplate>
-					<Button Margin="4" 
-							  Background="{Binding hexcolor}"/>
-				</DataTemplate>
-			</ItemsControl.ItemTemplate>
-		</ItemsControl>
+	<Grid Background="White" ShowGridLines="True">
+			<Grid.RowDefinitions>
+				<RowDefinition/>
+				<RowDefinition />
+				<RowDefinition/>
+				<RowDefinition />
+				<RowDefinition/>
+			</Grid.RowDefinitions>
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition/>
+				<ColumnDefinition />
+				<ColumnDefinition/>
+			</Grid.ColumnDefinitions>
+			<Grid Grid.Row="1" Grid.Column="1" VerticalAlignment="Bottom" >
+				<Grid.RowDefinitions>
+					<RowDefinition/>
+				</Grid.RowDefinitions>
+				<Grid.ColumnDefinitions>
+					<ColumnDefinition />
+					<ColumnDefinition/>
+				</Grid.ColumnDefinitions>
+				<Button Grid.Column="0" HorizontalAlignment="Right" Classes="controler">-</Button>
+				<Button  Grid.Column="1" HorizontalAlignment="Left" Classes="controler">+</Button>
+			</Grid>
+			<ItemsControl Items="{Binding List.Items}" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+				<ItemsControl.ItemsPanel>
+					<ItemsPanelTemplate>
+						<WrapPanel />
+					</ItemsPanelTemplate>
+				</ItemsControl.ItemsPanel>
+				<ItemsControl.ItemTemplate>
+					<DataTemplate>
+						<Button Classes="obj"
+								Background="{Binding hexcolor}"
+								HorizontalAlignment="Center"
+								VerticalAlignment="Center"
+								Width="200"
+								Height="200"/>
+					</DataTemplate>
+				</ItemsControl.ItemTemplate>
+			</ItemsControl>
 	</Grid>
 </UserControl>

@@ -20,6 +20,12 @@ namespace AvaloniaUI.ViewModels
         }
 
 
+        public void AddBlock()
+        {
+
+        }
+
+
         public ColorViewModel List { get; }
 
 

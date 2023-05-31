@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vadim\\source\\repos\\AvaloniaUI\\AvaloniaUI\\AvaloniaUI.csproj": {}
+    "C:\\Users\\astaninva\\source\\repos\\new-repos\\AvaloniaUI\\AvaloniaUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vadim\\source\\repos\\AvaloniaUI\\AvaloniaUI\\AvaloniaUI.csproj": {
+    "C:\\Users\\astaninva\\source\\repos\\new-repos\\AvaloniaUI\\AvaloniaUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vadim\\source\\repos\\AvaloniaUI\\AvaloniaUI\\AvaloniaUI.csproj",
+        "projectUniqueName": "C:\\Users\\astaninva\\source\\repos\\new-repos\\AvaloniaUI\\AvaloniaUI.csproj",
         "projectName": "AvaloniaUI",
-        "projectPath": "C:\\Users\\vadim\\source\\repos\\AvaloniaUI\\AvaloniaUI\\AvaloniaUI.csproj",
-        "packagesPath": "C:\\Users\\vadim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vadim\\source\\repos\\AvaloniaUI\\AvaloniaUI\\obj\\",
+        "projectPath": "C:\\Users\\astaninva\\source\\repos\\new-repos\\AvaloniaUI\\AvaloniaUI.csproj",
+        "packagesPath": "C:\\Users\\astaninva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\astaninva\\source\\repos\\new-repos\\AvaloniaUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\astaninva\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -60,6 +60,10 @@
             "Avalonia.ReactiveUI": {
               "target": "Package",
               "version": "[0.10.21, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.1, )"
             },
             "XamlNameReferenceGenerator": {
               "target": "Package",

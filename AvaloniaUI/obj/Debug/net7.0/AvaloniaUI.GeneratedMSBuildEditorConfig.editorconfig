@@ -12,13 +12,13 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AvaloniaUI
-build_property.ProjectDir = C:\Users\vadim\source\repos\AvaloniaUI\AvaloniaUI\
+build_property.ProjectDir = C:\Users\astaninva\source\repos\new-repos\AvaloniaUI\
 
-[C:/Users/vadim/source/repos/AvaloniaUI/AvaloniaUI/App.axaml]
+[C:/Users/astaninva/source/repos/new-repos/AvaloniaUI/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/vadim/source/repos/AvaloniaUI/AvaloniaUI/Views/CustomUserWindowProfile.xaml]
+[C:/Users/astaninva/source/repos/new-repos/AvaloniaUI/Views/CustomUserWindowProfile.xaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/vadim/source/repos/AvaloniaUI/AvaloniaUI/Views/MainWindow.xaml]
+[C:/Users/astaninva/source/repos/new-repos/AvaloniaUI/Views/MainWindow.xaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
