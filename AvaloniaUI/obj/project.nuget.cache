@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bItY9D1K/EWKMhWT0l6j3b8KkLooogwIWDb3pP0kOr4M4xExRJPAdITWBG+g5092azkWGylMzNuoKOCX2Y43Dw==",
+  "dgSpecHash": "klvSdJzQ0dcbMO+bcG+h5ilov9srgB7Xfjj4ebY1zVmhWFOWq3pNP516OqbPTarrMJc0yjQwj0aJLZBVblpQkw==",
   "success": true,
   "projectFilePath": "C:\\Users\\astaninva\\source\\repos\\new-repos\\AvaloniaUI\\AvaloniaUI.csproj",
   "expectedPackageFiles": [
@@ -19,6 +19,7 @@
     "C:\\Users\\astaninva\\.nuget\\packages\\avalonia.x11\\0.10.21\\avalonia.x11.0.10.21.nupkg.sha512",
     "C:\\Users\\astaninva\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\astaninva\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
+    "C:\\Users\\astaninva\\.nuget\\packages\\citrus.avalonia\\1.6.1\\citrus.avalonia.1.6.1.nupkg.sha512",
     "C:\\Users\\astaninva\\.nuget\\packages\\dynamicdata\\7.1.1\\dynamicdata.7.1.1.nupkg.sha512",
     "C:\\Users\\astaninva\\.nuget\\packages\\harfbuzzsharp\\2.8.2.1-preview.108\\harfbuzzsharp.2.8.2.1-preview.108.nupkg.sha512",
     "C:\\Users\\astaninva\\.nuget\\packages\\harfbuzzsharp.nativeassets.linux\\2.8.2.1-preview.108\\harfbuzzsharp.nativeassets.linux.2.8.2.1-preview.108.nupkg.sha512",

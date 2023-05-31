@@ -2,8 +2,9 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         x:Class="AvaloniaUI.Views.MainWindow"
         Icon="/Assets/avalonia-logo.ico"
-        Title="AvaloniaUI"
 		xmlns:views="clr-namespace:AvaloniaUI.Views"
+		
+        Title="Настройки для киоска выше!"		
 		>
 
 	<views:CustomUserWindowProfile/>
@@ -15,9 +16,14 @@
 		<Style Selector="Button.controler">
 			<Setter Property="Width" Value="35" />
 			<Setter Property="Height" Value="35" />
-			<Setter Property="Margin" Value="2" />
+			<Setter Property="Margin" Value="5" />
 			<Setter Property="HorizontalContentAlignment" Value="Center" />
 			<Setter Property="VerticalContentAlignment" Value="Center" />
 		</Style>
+		<Style Selector="Button.obj:pointerover /template/ ContentPresenter">
+			<Setter Property="Background"
+				Value="{Binding hexcolor}"/>
+		</Style>
+
 	</Window.Styles>
 </Window>

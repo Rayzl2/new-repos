@@ -386,6 +386,18 @@
           }
         }
       },
+      "Citrus.Avalonia/1.6.1": {
+        "type": "package",
+        "dependencies": {
+          "Avalonia": "0.10.12"
+        },
+        "compile": {
+          "lib/netstandard2.0/Citrus.Avalonia.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Citrus.Avalonia.dll": {}
+        }
+      },
       "DynamicData/7.1.1": {
         "type": "package",
         "dependencies": {
@@ -2094,6 +2106,18 @@
         "azureicon.png",
         "lib/netstandard2.0/Azure.Identity.dll",
         "lib/netstandard2.0/Azure.Identity.xml"
+      ]
+    },
+    "Citrus.Avalonia/1.6.1": {
+      "sha512": "A95Hl6FyftGM1HCS/xHbARunegyZQbz8L5h20ktFKd5wEy8JSWZPsQFMMaQUpp25Y5vcxWK7WbA17BBngICtbw==",
+      "type": "package",
+      "path": "citrus.avalonia/1.6.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "citrus.avalonia.1.6.1.nupkg.sha512",
+        "citrus.avalonia.nuspec",
+        "lib/netstandard2.0/Citrus.Avalonia.dll"
       ]
     },
     "DynamicData/7.1.1": {
@@ -4766,6 +4790,7 @@
       "Avalonia.Desktop >= 0.10.21",
       "Avalonia.Diagnostics >= 0.10.21",
       "Avalonia.ReactiveUI >= 0.10.21",
+      "Citrus.Avalonia >= 1.6.1",
       "Microsoft.Data.SqlClient >= 5.1.1",
       "XamlNameReferenceGenerator >= 1.6.1"
     ]
@@ -4777,11 +4802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\astaninva\\Source\\Repos\\new-repos\\AvaloniaUI\\AvaloniaUI.csproj",
+      "projectUniqueName": "C:\\Users\\astaninva\\source\\repos\\new-repos\\AvaloniaUI\\AvaloniaUI.csproj",
       "projectName": "AvaloniaUI",
-      "projectPath": "C:\\Users\\astaninva\\Source\\Repos\\new-repos\\AvaloniaUI\\AvaloniaUI.csproj",
+      "projectPath": "C:\\Users\\astaninva\\source\\repos\\new-repos\\AvaloniaUI\\AvaloniaUI.csproj",
       "packagesPath": "C:\\Users\\astaninva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\astaninva\\Source\\Repos\\new-repos\\AvaloniaUI\\obj\\",
+      "outputPath": "C:\\Users\\astaninva\\source\\repos\\new-repos\\AvaloniaUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4830,6 +4855,10 @@
           "Avalonia.ReactiveUI": {
             "target": "Package",
             "version": "[0.10.21, )"
+          },
+          "Citrus.Avalonia": {
+            "target": "Package",
+            "version": "[1.6.1, )"
           },
           "Microsoft.Data.SqlClient": {
             "target": "Package",
