@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "klvSdJzQ0dcbMO+bcG+h5ilov9srgB7Xfjj4ebY1zVmhWFOWq3pNP516OqbPTarrMJc0yjQwj0aJLZBVblpQkw==",
+  "dgSpecHash": "Kq6fcu37foGLE4yK8iN07HPL7AAfYAGSA0jds6ayiIY++PH4fLXxpL9ZHbNshHc8ZwbKmnZMCLMYSVYaga1Z6A==",
   "success": true,
   "projectFilePath": "C:\\Users\\astaninva\\source\\repos\\new-repos\\AvaloniaUI\\AvaloniaUI.csproj",
   "expectedPackageFiles": [
@@ -36,6 +36,7 @@
     "C:\\Users\\astaninva\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\astaninva\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",
     "C:\\Users\\astaninva\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.1.0\\microsoft.data.sqlclient.sni.runtime.5.1.0.nupkg.sha512",
+    "C:\\Users\\astaninva\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\astaninva\\.nuget\\packages\\microsoft.identity.client\\4.47.2\\microsoft.identity.client.4.47.2.nupkg.sha512",
     "C:\\Users\\astaninva\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\2.19.3\\microsoft.identity.client.extensions.msal.2.19.3.nupkg.sha512",
     "C:\\Users\\astaninva\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.24.0\\microsoft.identitymodel.abstractions.6.24.0.nupkg.sha512",
@@ -48,6 +49,7 @@
     "C:\\Users\\astaninva\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\astaninva\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\astaninva\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\astaninva\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
     "C:\\Users\\astaninva\\.nuget\\packages\\reactiveui\\13.2.10\\reactiveui.13.2.10.nupkg.sha512",
     "C:\\Users\\astaninva\\.nuget\\packages\\skiasharp\\2.88.1-preview.108\\skiasharp.2.88.1-preview.108.nupkg.sha512",
     "C:\\Users\\astaninva\\.nuget\\packages\\skiasharp.nativeassets.linux\\2.88.1-preview.108\\skiasharp.nativeassets.linux.2.88.1-preview.108.nupkg.sha512",

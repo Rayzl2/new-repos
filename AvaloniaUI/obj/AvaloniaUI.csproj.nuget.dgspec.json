@@ -49,6 +49,10 @@
               "target": "Package",
               "version": "[0.10.21, )"
             },
+            "Avalonia.Controls.DataGrid": {
+              "target": "Package",
+              "version": "[0.10.21, )"
+            },
             "Avalonia.Desktop": {
               "target": "Package",
               "version": "[0.10.21, )"
@@ -68,6 +72,10 @@
             "Microsoft.Data.SqlClient": {
               "target": "Package",
               "version": "[5.1.1, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.4, )"
             },
             "XamlNameReferenceGenerator": {
               "target": "Package",

@@ -9,6 +9,7 @@ namespace AvaloniaUI.Models
     public class ColorProfile
     {
         public string hexcolor { get; set; } = "Red";
+        public string id { get; set; }
 
     }
 }

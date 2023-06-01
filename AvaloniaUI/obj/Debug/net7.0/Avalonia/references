@@ -39,6 +39,7 @@ C:\Users\astaninva\.nuget\packages\microsoft.codeanalysis.common\3.4.0\lib\netst
 C:\Users\astaninva\.nuget\packages\microsoft.codeanalysis.scripting.common\3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.Scripting.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\Microsoft.CSharp.dll
 C:\Users\astaninva\.nuget\packages\microsoft.data.sqlclient\5.1.1\ref\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\astaninva\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\lib\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\astaninva\.nuget\packages\microsoft.identity.client\4.47.2\lib\netcoreapp2.1\Microsoft.Identity.Client.dll
 C:\Users\astaninva\.nuget\packages\microsoft.identity.client.extensions.msal\2.19.3\lib\netcoreapp2.1\Microsoft.Identity.Client.Extensions.Msal.dll
 C:\Users\astaninva\.nuget\packages\microsoft.identitymodel.abstractions\6.24.0\lib\net6.0\Microsoft.IdentityModel.Abstractions.dll
@@ -55,6 +56,7 @@ C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\Microso
 C:\Users\astaninva\.nuget\packages\microsoft.win32.systemevents\6.0.0\lib\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\mscorlib.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.5\ref\net7.0\netstandard.dll
+C:\Users\astaninva\.nuget\packages\npgsql\7.0.4\lib\net7.0\Npgsql.dll
 C:\Users\astaninva\.nuget\packages\reactiveui\13.2.10\lib\net5.0\ReactiveUI.dll
 C:\Users\astaninva\.nuget\packages\skiasharp\2.88.1-preview.108\lib\net6.0\SkiaSharp.dll
 C:\Users\astaninva\.nuget\packages\splat\10.0.1\lib\net5.0\Splat.dll

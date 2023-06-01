@@ -4,6 +4,8 @@ using System;
 using AvaloniaUI.ViewModels;
 using System.Collections.ObjectModel;
 using AvaloniaUI.Models;
+using Avalonia.Controls;
+
 
 namespace AvaloniaUI.ViewModels
 {
@@ -24,6 +26,7 @@ namespace AvaloniaUI.ViewModels
         {
 
         }
+
 
 
         public ColorViewModel List { get; }
