@@ -12,11 +12,15 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Remove="App.xaml" />
     <None Remove="Views\CustomUserWindowProfile.xaml" />
     <None Remove="Views\MainWindow.xaml" />
   </ItemGroup>
 
   <ItemGroup>
+    <AvaloniaXaml Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </AvaloniaXaml>
     <AvaloniaXaml Include="Views\CustomUserWindowProfile.xaml">
       <Generator>MSBuild:Compile</Generator>
     </AvaloniaXaml>
@@ -31,12 +35,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Avalonia" Version="0.10.21" />
-    <PackageReference Include="Avalonia.Controls.DataGrid" Version="0.10.21" />
-    <PackageReference Include="Avalonia.Desktop" Version="0.10.21" />
     <!--Condition below is needed to remove Avalonia.Diagnostics package from build output in Release configuration.-->
-    <PackageReference Condition="'$(Configuration)' == 'Debug'" Include="Avalonia.Diagnostics" Version="0.10.21" />
-    <PackageReference Include="Avalonia.ReactiveUI" Version="0.10.21" />
+    <PackageReference Include="Avalonia" Version="0.10.12" />
+    <PackageReference Include="Avalonia.Desktop" Version="0.10.12" />
+    <PackageReference Include="Avalonia.ReactiveUI" Version="0.10.12" />
     <PackageReference Include="Citrus.Avalonia" Version="1.6.1" />
     <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.1" />
     <PackageReference Include="Npgsql" Version="7.0.4" />
@@ -44,6 +46,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Update="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
     <Compile Update="Views\CustomUserWindowProfile.xaml.cs">
       <DependentUpon>CustomUserWindowProfile.xaml</DependentUpon>
     </Compile>

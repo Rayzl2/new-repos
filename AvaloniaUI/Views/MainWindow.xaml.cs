@@ -12,7 +12,6 @@ namespace AvaloniaUI.Views
         public MainWindow()
         {
             InitializeComponent();
-            this.AttachDevTools();
         }
 
 

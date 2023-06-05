@@ -33,8 +33,7 @@
 				<Button Grid.Column="1" HorizontalAlignment="Left" Classes="controler" Content="+">+</Button>
 			</Grid>
 		<ScrollViewer HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Disabled"  Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" x:Name="scrollViewer"
-              PointerPressed="OnMouseDown"
-              PointerMoved="OnMouseMove">
+			PointerMoved="HorizontalScrollBar_ValueChanged">
 			<ItemsControl Items="{Binding List.Items}">
 				<ItemsControl.ItemsPanel>
 					<ItemsPanelTemplate>
@@ -48,7 +47,10 @@
 								HorizontalAlignment="Center"
 								VerticalAlignment="Center"
 								Width="200"
-								Height="200"/>
+								Height="200"
+								x:Name="PrettyObj"
+								Click="ButtonClick"
+								PointerPressed="MyElement_PointerPressed"/>
 					</DataTemplate>
 				</ItemsControl.ItemTemplate>
 			</ItemsControl>
